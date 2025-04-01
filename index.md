@@ -5,9 +5,9 @@ My hobbies include `surfing`, `hiking`, `running`, taking pictures - anything [o
 > *“Nature gives to every time and season some beauties of its own.” –Charles Dickens*
 
 ## National Parks
-
-My family and I go to a lot of national parks. Here is a list of some that I have been to - and my top 3:
 ![image](family-hiking.jpg)
+My family and I go to a lot of national parks. Here is a list of some that I have been to - and my top 3:
+
 1. [Glacier National Park](https://www.nps.gov/glac/index.htm)
 2. Banff National Park
 3. Bryce Canyon National Park
