@@ -6,7 +6,7 @@ My hobbies include `surfing`, `hiking`, `running` - anything [outdoorsy](#nation
 
 ## National Parks
 ![image](family-hiking.jpg)
-![image](glacier.jpg)
+![image](glacier.JPG)
 My family and I go to a lot of national parks. Here is a list of some that I have been to - and my top 3:
 
 1. [Glacier National Park](https://www.nps.gov/glac/index.htm)
